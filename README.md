@@ -1,5 +1,5 @@
 # AmazonViews
-4 billion reviews on the Amazon platform from June 1995 to March 2013.
+4 million reviews on the Amazon platform from June 1995 to March 2013.
 
 # Model Performance
 
