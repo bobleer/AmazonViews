@@ -1,7 +1,9 @@
 # AmazonViews
-The reviews on the Amazon platform from June 1995 to March 2013.
+4 billion reviews on the Amazon platform from June 1995 to March 2013.
 
-# CNN + LSTM
+# Model Performance
+
+## CNN + LSTM
 ```
 _________________________________________________________________
 Layer (type)                 Output Shape              Param #   
@@ -35,6 +37,6 @@ Epoch 1/1
 [Test] Accuracy: 0.9426625
 ```
 
-# CNN + LSTM + Word2vec
+## CNN + LSTM + Word2vec
 ```
 ```
