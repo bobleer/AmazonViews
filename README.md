@@ -29,7 +29,6 @@ Epoch 2/2
 
 [Test] Loss: 0.12511832007383927
 [Test] Accuracy: 0.95469625
-Time Spent: 4082.656681060791 s
 ```
   
   
