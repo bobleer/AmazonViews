@@ -3,6 +3,4 @@
 
 # Model Performance
 
-![](https://github.com/bobleer/AmazonViews/raw/master/%5BResult%5Dperformance.png)
-
-![](https://github.com/bobleer/AmazonViews/raw/master/%5BResult%5Dtime.png)
+![](https://github.com/bobleer/AmazonViews/raw/master/result.png)
